@@ -13,7 +13,7 @@ Let’s get a visual look at one way we can represent those steps.
 
 ## Break it down
 
-![Diagram 1](images/alignment-1.jpeg)
+![Diagram 1 - 3 concentric circles, with the "product" circle inside the "Business and stakeholders" circle, which is inside a larger "industry and market" circle. The word "customer" sits to the right side outside of any of the circles](images/alignment-1.jpeg)
 
 We’ll align those 4 steps above with the diagram here. 
 
@@ -39,7 +39,7 @@ Peeking to the larger scope, something else interesting happens. Surely, there i
 
 Tracking these ideas, lets add some arrows to that diagram from before.
 
-![Diagram 2](images/alignment-2.jpeg)
+![Diagram 2 - built off of diagram 1, but including arrow going outward from the "product" circle, arrows both inward and outward from the "business and stakeholders" circle, and arrows both inward and outward from the "industry and market" circle](images/alignment-2.jpeg)
 
 This is where I had an “Ah-ha!” moment. **There are so many outward arrows!** As it turns out, there some alignment across all of the circles! We all want to grow and expand, and if we can achieve those goals of more users, impact, and revenue, the resources expand and should enable further expansion. To take advantage of this, our job is to *address the contraction*. Let’s explore that really quick.
 
@@ -49,6 +49,6 @@ How can a product manager deal with the contraction from a business on the produ
 
 Let’s check back on the diagram. If this point of contraction, this set of arrows between the business and product, can be successfully managed, then there is alignment across the spectrum. Everyone is pointed the same direction, and that is toward growth.
 
-![Diagram 3](images/alignment-3.jpeg)
+![Diagram 3 - building off of diagram 2, but this time with the arrows pointing from the "business and stakeholders" circle inward crossed out, and an additional large arrow going from the "product" circle going outward across all of them toward the word "Customer"](images/alignment-3.jpeg)
 
 So, back to Cagan’s 4 steps, a product manager’s job is to achieve this alignment. Become your product team’s best friend. Appreciate the constraints of the business. Challenge those constraints when appropriate, but be collaborative and don’t cry wolf too often. Now go make it happen!
