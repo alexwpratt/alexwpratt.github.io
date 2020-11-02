@@ -6,10 +6,6 @@ I'm a techie focused on creating and delivering excellent products. I love story
 
 Currently a Senior Consultant @ [Pariveda Solutions](https://www.parivedasolutions.com) in LA
 
-
-![Me](posts/images/profile_picture_square.jpg)
-
-
 Message me on [LinkedIn](https://www.linkedin.com/in/alexwilckenpratt) if you'd like to connect!
 
 
@@ -31,3 +27,8 @@ Check out **Inconsequentialism** on [Apple](https://itunes.apple.com/us/podcast/
 ## Quotes
 
 [Here are some of my favorite quotes](/posts/quotes.md), in no particular order. I'm always editting this list, so hmu if you have some you'd recommend!
+
+
+
+![Me](posts/images/profile_picture_square.jpg)
+
