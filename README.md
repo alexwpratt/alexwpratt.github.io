@@ -11,6 +11,8 @@ Message me on [LinkedIn](https://www.linkedin.com/in/alexwilckenpratt) if you'd 
 
 ## Writing
 
+Sometimes I like blogging about stuff, check it out if you're curious!
+
 - [Alignment](/posts/alignment.md) (Product Management)
 - [Inspiring Confidence](/posts/inspiring-confidence.md) (Leadership, Sports)
 
