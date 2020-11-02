@@ -1,3 +1,11 @@
+---
+title: "Alignment"
+date: "2020-11-01"
+draft: false
+path: "/blog/alignment"
+tags: "Product Management"
+---
+
 # Alignment
 
 In his legendary book “INSPIRED: How to Create Tech Products Customers Love”, Marty Cagan presents a paradigm on the role of a Product Manager that can be broken down into 4 steps:
