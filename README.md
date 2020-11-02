@@ -1,6 +1,7 @@
-# Welcome to my blog!
+# Alex Wilcken Pratt
+### Currently a Senior Consultant @ [Pariveda Solutions](https://www.parivedasolutions.com)
 
-Welcome! I like thinking and doing, and sometimes writing about it. My favorite things to think/write about are products, engineering, sports, music and other stuff. Hope you enjoy!
+Experienced Tech Leader and Engineer focused on creating and delivering excellent products. I differentiate myself with my ability to communicate and bridge the technical and non-technical worlds. I love storytelling, solving problems with innovation, and any time I can spend with sports and music! 
 
 Message me on [LinkedIn](https://www.linkedin.com/in/alexwilckenpratt) if you'd like to connect!
 
@@ -9,6 +10,7 @@ Message me on [LinkedIn](https://www.linkedin.com/in/alexwilckenpratt) if you'd 
 
 - [Alignment](/posts/alignment.md) - Product Management
 - [Inspiring Confidence](/posts/inspiring-confidence.md) - Leadership, Sports 
+
 
 
 ## Inconsequentialism Podcast
