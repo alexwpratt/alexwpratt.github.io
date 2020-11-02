@@ -3,7 +3,7 @@ title: "Inspiring Confidence"
 date: "2019-04-03"
 draft: false
 path: "/blog/inspiring-confidence"
-featuredImage: Steve-Kerr-What.png
+tags: "Leadership", "Sports"
 ---
 
 I really like basketball. Like a lot.
