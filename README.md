@@ -1,7 +1,10 @@
 # Alex Wilcken Pratt
-### Currently a Senior Consultant @ [Pariveda Solutions](https://www.parivedasolutions.com) in Los Angeles
+
+### Welcome!
 
 I'm a techie focused on creating and delivering excellent products. I love storytelling, solving problems with innovation, sports, music, and making things happen.
+
+Currently a Senior Consultant @ [Pariveda Solutions](https://www.parivedasolutions.com) in LA
 
 Message me on [LinkedIn](https://www.linkedin.com/in/alexwilckenpratt) if you'd like to connect!
 
