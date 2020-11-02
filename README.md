@@ -8,8 +8,8 @@ Message me on [LinkedIn](https://www.linkedin.com/in/alexwilckenpratt) if you'd 
 
 ## Posts
 
-- [Alignment](/posts/alignment.md) - Product Management
-- [Inspiring Confidence](/posts/inspiring-confidence.md) - Leadership, Sports 
+- [Alignment](/posts/alignment.md) (Product Management)
+- [Inspiring Confidence](/posts/inspiring-confidence.md) (Leadership, Sports)
 
 
 
