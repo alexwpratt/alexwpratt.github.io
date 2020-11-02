@@ -10,7 +10,7 @@ I really like basketball. Like a lot.
 
 I love the game, the strategy, the competition, the talent, the personalities, and the joy around it. I love playing it (albeit poorly), I love watching it, and I love talking about it. Among other things, basketball has a lot of lessons and metaphors for life embedded into it.
 
-Check out this clip from a game a while back between the Sacramento Kings and the Golden State Warriors: [Link](https://www.youtube.com/watch?v=LcqDydmVa-s).
+Check out [this clip](https://www.youtube.com/watch?v=LcqDydmVa-s) from a game a while back between the Sacramento Kings and the Golden State Warriors.
 
 In a close game with time running out, Buddy Hield hits a bold, contested, and very long three. He's the best shooter on the team, and one of the best in the NBA this year. A deadball occurs right after, and you see an exchange between him and his coach, Dave Joerger. I don't what the actual words said here are, but Buddy Hield's reaction seems to say Joerger was pretty unhappy about that shot he took.
 
@@ -24,7 +24,7 @@ What are you supposed to do as a coach in this scenario? If you really think it'
 
 I'm not trying to say anything about Dave Joerger as a coach. I've never sat in one of his practices. I don't even really know what he said here in this moment. I'm sure there are much "better" coaches who would have screwed this up, and much "worse" ones who would have done better here. But ignoring all of that, I do think this is a metaphor for one aspect of what a leader should do: inspire confidence.
 
-Steve Kerr, who interestingly enough is the opposing coach in the game from above, has had plenty of experience watching his players in "heat check" moments. Check out this clip from a game from a few years ago: [Link](https://www.youtube.com/watch?v=NudiJUlxb10)
+Steve Kerr, who interestingly enough is the opposing coach in the game from above, has had plenty of experience watching his players in "heat check" moments. Check out [this clip](https://www.youtube.com/watch?v=NudiJUlxb10) from a game from a few years ago.
 
 What Steph Curry does here is ridiculous. But without getting into the basketball weeds, let's see how Steve Kerr, the coach that's supposed to keep these talented guys playing as a team and headed in the right direction.
 
