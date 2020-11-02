@@ -30,5 +30,5 @@ Check out **Inconsequentialism** on [Apple](https://itunes.apple.com/us/podcast/
 
 
 
-![Me](posts/images/profile_picture_square.jpg)
+![Me](posts/images/beach.jpeg)
 
