@@ -9,11 +9,10 @@ Currently a Senior Consultant @ [Pariveda Solutions](https://www.parivedasolutio
 Message me on [LinkedIn](https://www.linkedin.com/in/alexwilckenpratt) if you'd like to connect!
 
 
-## Posts
+## Writing
 
 - [Alignment](/posts/alignment.md) (Product Management)
 - [Inspiring Confidence](/posts/inspiring-confidence.md) (Leadership, Sports)
-
 
 
 ## Inconsequentialism Podcast
@@ -22,3 +21,7 @@ As a fun little project while I was wrapping up my degree, I started a podcast! 
 
 Check it out on [Apple](https://itunes.apple.com/us/podcast/inconsequentialism/id1458046001) or [Spotify](https://open.spotify.com/show/5sMtj2KdImvKo3gnjltAx8?si=kKELPlnrQ-qnTmPiYB7sRw)
 
+
+## Quotes
+
+[Here are some of my favorite quotes](/posts/quotes.md), in no particular order. I'm always adding, hmu if you have some you'd recommend!
