@@ -1,5 +1,5 @@
 ---
-title: "How I Made This Blog"
+title: "How I made this blog"
 date: "2020-11-03"
 draft: false
 path: "/posts/blog"
