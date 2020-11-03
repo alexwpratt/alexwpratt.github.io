@@ -2,7 +2,7 @@
 title: "Alignment"
 date: "2020-11-01"
 draft: false
-path: "/blog/alignment"
+path: "/posts/alignment"
 tags: "Product Management"
 ---
 
