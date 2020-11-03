@@ -2,7 +2,7 @@
 title: "Inspiring Confidence"
 date: "2019-04-03"
 draft: false
-path: "/blog/inspiring-confidence"
+path: "/posts/inspiring-confidence"
 tags: "Leadership", "Sports"
 ---
 
