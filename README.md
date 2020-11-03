@@ -15,6 +15,7 @@ Sometimes I like blogging, check it out if you're curious!
 
 - [Alignment](/posts/alignment.md) (Product Management)
 - [Inspiring Confidence](/posts/inspiring-confidence.md) (Leadership, Sports)
+- [How I made this blog](/posts/blog.md) (Engineering, Product Management)
 
 
 ## Inconsequentialism Podcast
