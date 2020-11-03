@@ -5,6 +5,7 @@ draft: false
 path: "/posts/inspiring-confidence"
 tags: "Leadership", "Sports"
 ---
+# Inspiring Confidence
 
 I really like basketball. Like a lot.
 
