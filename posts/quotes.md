@@ -144,12 +144,6 @@
 
 "Everything around you that you call life was made up by people that were no smarter than you and you can change it, you can influence it, you can build your own things that other people can use." - Steve Jobs
 
-"Inventories can be managed, but people must be led." - Ross Perot
-
-"If you see a snake, just kill it - don't appoint a committee on snakes." - Ross Perot
-
-"The activist is not the man who says the river is dirty. The activist is the man who cleans up the river." - Ross Perot
-
 "Be quick, but don't hurry." - John Wooden
 
 "The electric light did not come from come from the continuous improvement of candles." - Oren Harari
@@ -212,7 +206,7 @@
 
 "There is nothing else that so kills the ambitions of a person as criticisms from superiors. I never criticize anyone. I believe in giving a person incentive to work. So I am anxious to praise but loath to find fault. If I like anything, I am hearty in my approbation and lavish in my praise." - Charles Schwab
 
-"I judge people by their own principles—not by my own." - Martin Luther King Jr.
+"I judge people by their own principles— not by my own." - Martin Luther King Jr.
 
 "Action springs out of what we fundamentally desire … and the best piece of advice which can be given to would-be persuaders, whether in business, in the home, in the school, in politics, is: First, arouse in the other person an eager want. He who can do this has the whole world with him. He who cannot walks a lonely way." - Harry A. Overstreet
 
