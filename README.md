@@ -12,7 +12,7 @@ Message me on [LinkedIn](https://www.linkedin.com/in/alexwilckenpratt) if you'd 
 
 Sometimes I like blogging, check it out if you're curious!
 
-- [Automation with IPO]](/posts/automation-ipo.md) (Engineering, Product Management)
+- [Automation with IPO](/posts/automation-ipo.md) (Engineering, Product Management)
 - [Alignment](/posts/alignment.md) (Product Management)
 - [Inspiring Confidence](/posts/inspiring-confidence.md) (Leadership, Sports)
 - [How I made this blog](/posts/blog.md) (Engineering, Product Management)
