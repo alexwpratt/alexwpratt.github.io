@@ -1,9 +1,9 @@
 ---
-title: "Automation with IPO"
-date: "2020-11-10"
+title: 'Automation with IPO'
+date: '2020-11-10'
 draft: false
-path: "/posts/automation-ipo"
-tags: "Product Management", "Technology"
+path: '/posts/automation-ipo'
+tags: 'Engineering'
 ---
 
 # Automation with IPO
