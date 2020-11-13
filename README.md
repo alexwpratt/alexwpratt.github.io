@@ -27,4 +27,4 @@ Check out **Inconsequentialism** on [Apple](https://itunes.apple.com/us/podcast/
 
 [Here are some of my favorite quotes](/posts/quotes.md), in no particular order. I'm always editing this list, so hmu if you have some you'd recommend!
 
-![Me](posts/images/beach.jpeg)
+![Me](posts/images/snow_canyon.jpeg)
