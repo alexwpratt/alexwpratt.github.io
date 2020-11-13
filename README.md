@@ -6,7 +6,7 @@ I'm a techie focused on creating and delivering excellent products. I love story
 
 Currently a Senior Consultant @ [Pariveda Solutions](https://www.parivedasolutions.com) in LA
 
-Message me on [LinkedIn](https://www.linkedin.com/in/alexwilckenpratt) if you'd like to connect!
+Check me out on [LinkedIn](https://www.linkedin.com/in/alexwilckenpratt) or [Instagram](https://www.instagram.com/alexwpratt/) if you'd like to connect!
 
 ## Writing
 
