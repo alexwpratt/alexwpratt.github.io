@@ -1,3 +1,5 @@
+"Stop being patient and start asking yourself, how do I accomplish my 10 years plan in 6 months? You will probably fail but you will be lot further ahead of the person who simply accepted it was going to take 10 years." - Elon Musk
+
 "The single biggest problem with communication is the illusion that it has taken place." - George Bernard Shaw
 
 "It is better, I think, to grab at the stars than to sit flustered because you know you cannot reach them... At least he who reaches will get a good stretch, a good view, and perhaps even a low-hanging apple for his efforts." - R.A. Salvatore
