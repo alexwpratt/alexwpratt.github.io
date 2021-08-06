@@ -1,3 +1,5 @@
+"Do something hard in the morning and the rest of your day is easy." - Joe Rogan
+
 "Stop being patient and start asking yourself, how do I accomplish my 10 years plan in 6 months? You will probably fail but you will be lot further ahead of the person who simply accepted it was going to take 10 years." - Elon Musk
 
 "The single biggest problem with communication is the illusion that it has taken place." - George Bernard Shaw
